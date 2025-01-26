@@ -47,8 +47,8 @@ if(isset($_POST["email"])){
   }
   session_start();
   $_SESSION['loggedin']=true;
-  $_SESSION["location:1.php"];
-  header("location:1.php");
+  $_SESSION["location:index.php"];
+  header("location:index.php");
 }
 
 

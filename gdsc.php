@@ -13,7 +13,7 @@
 
         </div>
         <div class="home">
-            <a href ="1.php">Home</a>
+            <a href ="index.php">Home</a>
         </div>
         <div class="member"><a href="member.php">members</a></div>    
         <div class="joinus">
